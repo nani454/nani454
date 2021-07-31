@@ -2,7 +2,7 @@
 - 👀 I’m interested in Problem solving, Java, Spring and Angular
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: mailto:nani454@gmail.com 
+- 📫 How to reach me: nani454@gmail.com 
 
 <!---
 nani454/nani454 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
